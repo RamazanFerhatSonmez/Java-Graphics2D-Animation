@@ -1,2 +1,6 @@
-# EvHaneGelirGider-PHP-
-Aylık gelirlerinizi ve giderlerinizi tuta bileceğiniz web uygulaması :)
+1-	Ekran genişliği 800x800 pixel olan bir pencerede ekranın tam orta noktasında çapı 3 pixel olan bir daire 10 ms aralıklarla 10 pixel lik adımlarla ekranı kaplayacak şekilde genişleyecek ve ekranı kaplayınca ortadan kaybolacak her adımda iç rengi rastgele olarak değişecek ve animasyon bitecek. Gerekli kodlamayı sadece ihtiyaç duyulan metodlar yazılarak gerçekleştiriniz? (30 puan)
+
+2-	Sahnede iki tane 20x20 pixel ve içleri kırmızı renkle dolu kare yukarıdan aşağı doğru sürekli hareket edecek, herhangi bir noktada karşılaştıklarında ise çarpışma gerçekleşecek ve her iki kare nesne ortadan kaybolacak. Bu animasyona ait kodlamayı gerekli sınıfları ve metodları yazarak gerçekleştiriniz? (30 puan)
+
+3-	Ekranın (0,0) noktasında yarıçapı 30 pixel olan kenar rengi siyah ve kalınlığı 2 ve iç dolgu rengi olmayan bir daire çizdirin, ve bu daireden x ekseninde 200 pixel  sabit uzaklıktı  ve y ekseninde 20 pixel adımlar ile artan uzaklıklarda 10 adet rastgele çaplarda  kenar rengi siyah ve kalınlığı 2 ve iç dolgu rengi olmayan daireler çizdirin ve son olarak  bu daireler ile başlangıç noktasındaki dairenin merkezini birleştiren doğrular çizdirerek ekrandaki çizimi tamamlayan kodlamayı yazınız? (30 puan) (animasyon olmayacak, kod çalıştığında tüm çizim bir anda oluşacak)
+
